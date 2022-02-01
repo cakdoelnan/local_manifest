@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+ <remote name="danascape"
+         fetch="https://github.com/danascape" />
+          
+ <remote name="RazaDroidProject"
+         fetch="https://github.com/RazaDroidProject" />
+
+
  <!-- Trees -->
  <project path="device/X00R" name="device_asus_X00P" remote="RazaDroidProject" revision="evox" />
  <project path="device/X00R/android_device_asus_msm8937-common.git" remote="asus-msm8937-devs" revision="evox" />
