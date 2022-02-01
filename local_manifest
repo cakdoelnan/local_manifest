@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/X00R" name="device_asus_X00P" remote="RazaDroidProject" revision="evox" />
+ <project path="device/X00R/android_device_asus_msm8937-common.git" remote="asus-msm8937-devs" revision="evox" />
+ <project path="vendor/X00R" name="vendor_asus" remote="RazaDroidProject" revision="evox" />
+ <project path="kernel/X00R" name="kernel_asus_X00P" remote="danascape" revision="evox" />
+ 
+</manifest>
